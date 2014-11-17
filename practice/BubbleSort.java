@@ -1,5 +1,9 @@
 package project1;
 
+/**
+ * This class bubble sorts an array of numbers.
+ */
+ 
 public class BubbleSort {
 	
 	public static void main(String[] args){
